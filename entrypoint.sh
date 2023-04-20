@@ -1,6 +1,6 @@
 #!/bin/sh
 
-UUID=${UUID:-'ed512444-c28d-4b3f-8bd1-4398b28ee629'}
+UUID=${UUID:-'b9321bac-1cb6-436e-a010-e09e29176a1f'}
 VMESS_WSPATH=${VMESS_WSPATH:-"/${UUID}-vmess"}
 VLESS_WSPATH=${VLESS_WSPATH:-"/${UUID}-vless"}
 TROJAN_WSPATH=${TROJAN_WSPATH:-"/${UUID}-trojan"}
